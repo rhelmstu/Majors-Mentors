@@ -43,7 +43,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4",
   "title": "Economics",
-  "body": " Economics     12:00-12:45: Lunch  Woodard Red Room    1:00-1:50: Class visits  ECON 300: Introduction to Economic Analysis  Dr. Brad Hansen  Monroe 122    2:00-2:45: Opportunities Beyond the Classroom  Class visit with the Student-managed Investment Fund (FINC 412)  Dr. Rachel Graefe-Anderson  Woodard 202    2:45-3:15: Meet the Faculty  Dr. Brad Hansen  Woodard 238    3:15-4:00: Student Panel: Getting Involved with Clubs, Internships, and More  Woodard 202    4:00-4:30: Pick-up and Day Eve Celebration  Woodard Red Room     "
+  "body": " Economics     12:00-12:45: Lunch  Woodard Red Room    1:00-1:50: Class visits  ECON 300: Introduction to Economic Analysis  Dr. Brad Hansen  Monroe 122    2:00-2:45: Opportunities Beyond the Classroom  Class visit with the Student-managed Investment Fund (FINC 412)  Dr. Rachel Graefe-Anderson  Woodard 202    2:45-3:15: Meet the Faculty  Dr. Brad Hansen  Woodard 238  MBA Program with Dr. Chris Garcia  Woodard 214    3:15-4:00: Student Panel: Getting Involved with Clubs, Internships, and More  Woodard 202    4:00-4:30: Pick-up and Day Eve Celebration  Woodard Red Room     "
 },
 {
   "id": "section-finc",
@@ -52,7 +52,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5",
   "title": "Finance &amp; Accounting",
-  "body": " Finance & Accounting     12:00-12:45: Lunch  Woodard Red Room    1:00-1:50: Meet with Dr. Rachel Graefe-Anderson and students  Woodard 249    2:00-2:45: Opportunities Beyond the Classroom  Class visit with the Student-managed Investment Fund (FINC 412)  Dr. Rachel Graefe-Anderson  Woodard 202    2:45-3:15: Meet the Faculty  Dr. Ken Machande (accounting)  Woodard 241  Dr. Rachel Graefe-Anderson (finance)  Woodard 237    3:15-4:00: Student Panel: Getting Involved with Clubs, Internships, and More  Woodard 202    4:00-4:30: Pick-up and Day Eve Celebration  Woodard Red Room     "
+  "body": " Finance & Accounting     12:00-12:45: Lunch  Woodard Red Room    1:00-1:50: Meet with Dr. Rachel Graefe-Anderson and students  Woodard 249    2:00-2:45: Opportunities Beyond the Classroom  Class visit with the Student-managed Investment Fund (FINC 412)  Dr. Rachel Graefe-Anderson  Woodard 202    2:45-3:15: Meet the Faculty  Dr. Ken Machande (accounting)  Woodard 241  Dr. Rachel Graefe-Anderson (finance)  Woodard 237  MBA Program with Dr. Chris Garcia  Woodard 214    3:15-4:00: Student Panel: Getting Involved with Clubs, Internships, and More  Woodard 202    4:00-4:30: Pick-up and Day Eve Celebration  Woodard Red Room     "
 },
 {
   "id": "section-mang",
