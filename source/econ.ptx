@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<section xml:id="section-2" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Marketing</title>
-   
+<section xml:id="section-econ" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Economics </title>
+
     <p>
       
     <ul> 
@@ -14,29 +14,35 @@
         </p> 
       </li>
       
-    <li>  
+      <li>  
         <p>
           1:00-1:50:  Class visits
         </p> 
-
         <p>
-           MKTG 411:  Marketing Research
+            ECON 300:  Introduction to Economic Analysis
         </p>
         <p>
-            Dr. Kashef Majid
+            Dr. Brad Hansen
         </p>
         <p>
-          Woodard 211
+          Monroe 122
         </p>
       </li>
       
      <li>  
         <p>
-          2:00-2:45:  Opportunities Beyond the Classroom:  Pitch and 
-          Case Competitions 
+          2:00-2:45:  Opportunities Beyond the Classroom
+        </p>
+
+          <p>Class visit with the Student-managed
+          Investment Fund (FINC 412)
         </p> 
+
         <p>
-          Woodard 132
+            Dr. Rachel Graefe-Anderson
+        </p>
+        <p>
+          Woodard 202
         </p>
       </li> 
 
@@ -45,17 +51,10 @@
           2:45-3:15:  Meet the Faculty
         </p> 
         <p>
-            Dr. Lance Gentry
+            Dr. Brad Hansen
         </p>
         <p>
-          Woodard 257
-        </p>
-
-        <p>
-            MBA Program with Dr. Chris Garcia
-        </p>
-        <p>
-            Woodard 214
+          Woodard 238
         </p>
       </li>
 
@@ -77,11 +76,7 @@
         </p>
       </li> 
 
-    
-
-
     </ul>
     </p>
-   
-  
+
 </section>

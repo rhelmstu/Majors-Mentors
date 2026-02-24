@@ -18,9 +18,21 @@
   
     <xi:include href="./cpsc.ptx" />
 
-    <xi:include href="./math.ptx" />
+     <xi:include href="./cyber.ptx" />
+
+      <xi:include href="./dss.ptx" />
+
+       <xi:include href="./econ.ptx" />
+
+        <xi:include href="./finc.ptx" />
+
+    
+
+     <xi:include href="./mang.ptx" />
 
     <xi:include href="./marketing.ptx" />
+
+    <xi:include href="./math.ptx" />
 
     <xi:include href="./parents.ptx" />
   

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<section xml:id="section-2" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Marketing</title>
-   
+<section xml:id="section-cyber" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Cybersecurity </title>
+
     <p>
       
     <ul> 
@@ -18,25 +18,26 @@
         <p>
           1:00-1:50:  Class visits
         </p> 
+        <p>
+          MATH 253:  Introduction to Cryptography
+        </p>
 
         <p>
-           MKTG 411:  Marketing Research
+          Prof. Jennifer Magee
         </p>
+
         <p>
-            Dr. Kashef Majid
-        </p>
-        <p>
-          Woodard 211
+          Farmer 036
         </p>
       </li>
       
      <li>  
         <p>
-          2:00-2:45:  Opportunities Beyond the Classroom:  Pitch and 
-          Case Competitions 
+          2:00-2:45:  Opportunities Beyond the Classroom:  Undergraduate
+          Research Experiences
         </p> 
         <p>
-          Woodard 132
+          Farmer 036
         </p>
       </li> 
 
@@ -44,18 +45,13 @@
         <p>
           2:45-3:15:  Meet the Faculty
         </p> 
+
         <p>
-            Dr. Lance Gentry
-        </p>
-        <p>
-          Woodard 257
+          Person
         </p>
 
         <p>
-            MBA Program with Dr. Chris Garcia
-        </p>
-        <p>
-            Woodard 214
+          Where
         </p>
       </li>
 
@@ -64,9 +60,10 @@
           3:15-4:00:  Student Panel:  Getting Involved with Clubs, Internships, and More
         </p> 
         <p>
-          Woodard 202
+          Farmer 036
         </p>
       </li> 
+
 
       <li>  
         <p>
@@ -77,11 +74,7 @@
         </p>
       </li> 
 
-    
-
-
     </ul>
     </p>
-   
-  
+
 </section>

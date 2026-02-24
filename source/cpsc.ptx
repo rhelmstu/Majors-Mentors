@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <section xml:id="section-cpsc" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Computer Science &amp; Cybersecurity</title>
+  <title>Computer Science </title>
 
     <p>
       
@@ -19,16 +19,25 @@
           1:00-1:50:  Class visits
         </p> 
         <p>
-          Where
+          CPSC 326:  Theory of Computing
+        </p>
+
+        <p>
+          Dr. Andrew Marshall
+        </p>
+
+        <p>
+          Farmer 138
         </p>
       </li>
       
      <li>  
         <p>
-          2:00-2:45:  Opportunities Beyond the Classroom
+          2:00-2:45:  Opportunities Beyond the Classroom:  Undergraduate
+          Research Experiences
         </p> 
         <p>
-          Where
+          Farmer 036
         </p>
       </li> 
 
@@ -36,6 +45,11 @@
         <p>
           2:45-3:15:  Meet the Faculty
         </p> 
+
+        <p>
+          Person
+        </p>
+
         <p>
           Where
         </p>
@@ -46,7 +60,7 @@
           3:15-4:00:  Student Panel:  Getting Involved with Clubs, Internships, and More
         </p> 
         <p>
-          Where
+          Farmer 036
         </p>
       </li> 
 
@@ -55,15 +69,11 @@
         4:00-4:30:  Pick-up and <m>\pi</m> Day Eve Celebration
         </p> 
         <p>
-          Where
+          Woodard Red Room
         </p>
       </li> 
-
-    
-
 
     </ul>
     </p>
 
-  
 </section>
